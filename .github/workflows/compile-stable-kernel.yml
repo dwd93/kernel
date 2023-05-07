@@ -57,7 +57,8 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -DWD
+          - -Andik
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
